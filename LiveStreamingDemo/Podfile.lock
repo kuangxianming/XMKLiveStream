@@ -1,0 +1,30 @@
+PODS:
+  - Alamofire (4.7.2)
+  - HandyJSON (4.1.1)
+  - LFLiveKit (2.6)
+  - lottie-ios (2.5.0)
+  - SnapKit (4.0.0)
+  - Socket.IO-Client-Swift (13.2.1):
+    - Starscream (~> 3.0.2)
+  - Starscream (3.0.5)
+
+DEPENDENCIES:
+  - Alamofire
+  - HandyJSON
+  - LFLiveKit
+  - lottie-ios
+  - SnapKit
+  - Socket.IO-Client-Swift
+
+SPEC CHECKSUMS:
+  Alamofire: e4fa87002c137ba2d8d634d2c51fabcda0d5c223
+  HandyJSON: 3a3de917c4118767ffe41c29b5acba23409649f4
+  LFLiveKit: 2219563721f8aa0f188effc3395a06e2d53b23f2
+  lottie-ios: d699fdee68d7b63e721d949388b015fef1aaa4ac
+  SnapKit: a42d492c16e80209130a3379f73596c3454b7694
+  Socket.IO-Client-Swift: b94943e2fb916fe2f95244b9ed21828634002280
+  Starscream: faf918b2f2eff7d5dd21180646bf015a669673bd
+
+PODFILE CHECKSUM: 32191b79c3ae28888cab3698e15a42abdcef512b
+
+COCOAPODS: 1.4.0
